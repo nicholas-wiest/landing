@@ -1,6 +1,10 @@
 .container-avatar h3 {
-  letter-spacing: 5px;
+  letter-spacing: 2px;
+  font-family: 'Lora', serif;
+  font-size: 18px;
 }
 .container-avatar h4 {
-  letter-spacing: 7px;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  letter-spacing: 1px;
 }
